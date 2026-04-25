@@ -26,7 +26,7 @@ python app.py
 http://127.0.0.1:5000
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+[ Screenshot](screenshot.png)
 
 ## 📌 Author
 Bhupendra Patne
